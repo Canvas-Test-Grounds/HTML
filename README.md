@@ -7,7 +7,3 @@
   <p>2.
 <a href="https://puw1ng.github.io/HTML/dogester/nyanya.html">You can visit the site here</a>
   </p>
-  <p>*
-<a href="https://github.com/Puw1ng/HTML/">Release</a>
-</p>
- 
