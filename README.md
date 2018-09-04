@@ -1,5 +1,5 @@
 # HTML
- A dump for all my releases of my project #NyaNyaDotCom
+ A dump for my personal project #NyaNyaDotCom
 <p>1. Cute foxes are cool</p>
 <picture>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Vulpes_vulpes_laying_in_snow.jpg" width="250" height="165.5">
